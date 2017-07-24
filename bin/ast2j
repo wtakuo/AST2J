@@ -1,5 +1,0 @@
-#!/bin/sh
-# $Id: ast2j,v 1.2 2005/05/19 08:23:10 takuo Exp $
-JAVABIN=/usr/bin
-JARDIR=/usr/local/share/ast2j
-$JAVABIN/java -jar $JARDIR/ast2j.jar $*
