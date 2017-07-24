@@ -35,7 +35,7 @@
 
 #author "Takuo Watanabe (takuo@acm.org)"  // author of this AST definition
 #version "1.0"                            // version of this AST definition
-#package "jp.ac.titech.cs.psg.ast2j"      // package of generated Java classes
+#package "jp.ac.titech.c.psg.ast2j"       // package of generated Java classes
 
 #root AST               // Java class name of the root AST node
 #generate_root yes      // if yes, the root AST node class is generated

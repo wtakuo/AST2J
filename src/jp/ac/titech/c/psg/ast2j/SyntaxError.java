@@ -21,7 +21,7 @@
  * FOR ANY DAMAGES WHATSOEVER RESULTING FROM THE USE OF THIS SOFTWARE.
  */ 
 
-package jp.ac.titech.cs.psg.ast2j;
+package jp.ac.titech.c.psg.ast2j;
 
 class SyntaxError extends Exception {
     public SyntaxError (String message) {

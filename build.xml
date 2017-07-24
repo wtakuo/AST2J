@@ -16,7 +16,7 @@
 	 basedir="${classes}">
       <manifest>
 	<attribute name="Main-Class"
-		   value="jp.ac.titech.cs.psg.ast2j.AST2J"/>
+		   value="jp.ac.titech.c.psg.ast2j.AST2J"/>
       </manifest>
     </jar>
   </target>

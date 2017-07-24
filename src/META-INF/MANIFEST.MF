@@ -1,3 +1,3 @@
 Manifest-Version: 1.0
-Main-Class: jp.ac.titech.cs.psg.ast2j.AST2J
+Main-Class: jp.ac.titech.c.psg.ast2j.AST2J
 

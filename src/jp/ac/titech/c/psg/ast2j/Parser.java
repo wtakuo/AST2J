@@ -21,9 +21,10 @@
  * FOR ANY DAMAGES WHATSOEVER RESULTING FROM THE USE OF THIS SOFTWARE.
  */
 
-package jp.ac.titech.cs.psg.ast2j;
+package jp.ac.titech.c.psg.ast2j;
 
-import jp.ac.titech.cs.psg.util.Tokenizer;
+import jp.ac.titech.c.psg.util.Tokenizer;
+
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.ArrayList;

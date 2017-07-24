@@ -16,7 +16,7 @@
  * FOR ANY DAMAGES WHATSOEVER RESULTING FROM THE USE OF THIS SOFTWARE.
  */
 
-package jp.ac.titech.cs.psg.util;
+package jp.ac.titech.c.psg.util;
 
 import java.io.*;
 
