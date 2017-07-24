@@ -1,19 +1,6 @@
 /*
- * $Id: Tokenizer.java,v 1.2 2005/05/19 08:23:11 takuo Exp $
- * Tokenizer.java
- * Copyright (C) 2000,2001,2002 Takuo Watanabe (takuo@acm.org)
- * All Rights Reserved
- *
- * Permission to use, copy, modify and distribute this software and
- * its documentation is hereby granted, provided that both the
- * copyright notice and this permission notice appear in all copies of
- * the software, derivative works or modified versions, and any
- * portions thereof, and that both notices appear in supporting
- * documentation.
- *
- * FREE USE OF THIS SOFTWARE IS ALLOWED IN ITS "AS IS" CONDITION. BUT
- * WITHOUT WARRANTY. THE AUTHORS DISCLAIM ANY LIABILITY OF ANY KIND
- * FOR ANY DAMAGES WHATSOEVER RESULTING FROM THE USE OF THIS SOFTWARE.
+ * AST2J : A simple visitor generator for Java
+ * Copyright (c) 2000-2017 Takuo Watanabe <takuo@acm.org>
  */
 
 package jp.ac.titech.c.psg.util;

@@ -1,6 +1,0 @@
-$Id: HISTORY,v 1.1 2002/03/07 14:36:20 takuo Exp $
-
-2000/10/15 0.1a	First alpha version
-2000/10/19 0.2a	bug fix
-2000/11/21 0.5a	Add "use_lineno" parameter
-2002/03/06 0.5a	Changed class packages

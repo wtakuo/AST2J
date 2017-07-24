@@ -1,9 +1,0 @@
-$Id: README,v 1.2 2002/09/29 02:31:40 takuo Exp $
-
-AST2J: generates Java classes from AST node definitions
-
-Copyright (c) 2000, 2001, 2002
-by Takuo Watanabe <takuo@acm.org>
-
-AST2J generates Java classes from AST (Abstrace Syntax Tree) node
-definitions. The classes generated conform to the Visitor pattern.
